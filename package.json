@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/rainstyleXDD/IT-Project-personal-Customer-Relationship-Management-Back-End#readme",
   "dependencies": {
-    "bcrypt": "^5.0.1",
+    "bcrypt": "^6.0.0",
     "bcrypt-nodejs": "0.0.3",
     "cors": "^2.8.5",
     "cron": "^1.8.2",
